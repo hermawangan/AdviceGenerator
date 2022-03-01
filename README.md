@@ -15,7 +15,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -34,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/advice-generator-app-using-reactjs-V3h88hmLi)
+- Live Site URL: (https://generaterandomadvice.netlify.app/)
 
 ## My process
 
@@ -77,5 +76,3 @@ i will continue learning css, and ofcourse React.
 
 - LinkedIn - [@HermawanGan](https://www.linkedin.com/in/hermawan-gan/)
 - Frontend Mentor - [@hermawangan](https://www.frontendmentor.io/profile/hermawangan)
-
-
