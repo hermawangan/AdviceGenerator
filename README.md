@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[Click here to see the solution] (https://www.frontendmentor.io/solutions/advice-generator-app-using-reactjs-V3h88hmLi)
-- Live Site URL:[Click here to see the live demo] (https://generaterandomadvice.netlify.app/)
+- Solution URL: [Click here to see the solution](https://www.frontendmentor.io/solutions/advice-generator-app-using-reactjs-V3h88hmLi)
+- Live Site URL: [Click here to see the live demo](https://generaterandomadvice.netlify.app/)
 
 ## My process
 
